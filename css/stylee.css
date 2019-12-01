@@ -1,0 +1,75 @@
+*{
+    margin:0px;
+}
+
+body{
+font-family:"Roboto", sans-serif;
+background:url(../img/glass.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+.container {
+
+width: 450px;
+margin: 5% auto;
+background-color:#4ea58e;
+padding: 15px;
+display: block;
+
+}
+
+.signup-section{
+background-color:#548f80;
+padding:25px;
+
+
+}
+
+.signup-section h1{
+
+color:white;
+text-align:center;
+font-size:32px;
+margin:10px 0px;
+
+
+}
+
+.signup-section p{
+text-align:center;
+margin:10px 0px;
+
+
+}
+.signup-section h3{
+
+color:white;
+
+}
+.signup-section table{
+
+background-color:white ;
+
+}
+.form-control{
+
+
+width:98%;
+height:25px;
+padding:5px;
+margin: 5px 0px;
+
+}
+ 
+.btn{
+
+	margin:10px auto;
+	display: block;
+	background-color:#548f80;
+	color:white;
+	padding:8px 16px;
+	border:none;
+	text-transform:uppercase;
+	box-shadow:3px 6px 12px #c14444;
+}
